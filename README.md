@@ -1,4 +1,4 @@
-# Undergrad Machine Learning course projects
+# Machine Learning Course Projects
 
 ## Multi-Layer Perceptron
 
@@ -13,7 +13,6 @@ The code with description and comments can be found in [MLP.ipynb](MLP.ipynb).
 This dataset contains 28*28 grayscale images of clothing items labeled into ten categories based on clothing type.
 It includes a total of 60000 training samples and 10000 samples for testing.
 
------
 
 ## Learning To Rank
 
